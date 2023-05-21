@@ -1,0 +1,16 @@
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\bin\Debug\net5.0\ParkirConsole.exe
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\bin\Debug\net5.0\ParkirConsole.deps.json
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\bin\Debug\net5.0\ParkirConsole.runtimeconfig.json
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\bin\Debug\net5.0\ParkirConsole.runtimeconfig.dev.json
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\bin\Debug\net5.0\ParkirConsole.dll
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\bin\Debug\net5.0\ParkirConsole.pdb
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.csproj.AssemblyReference.cache
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.AssemblyInfoInputs.cache
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.AssemblyInfo.cs
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.csproj.CoreCompileInputs.cache
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.dll
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\refint\ParkirConsole.dll
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.pdb
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ParkirConsole.genruntimeconfig.cache
+C:\Users\Inal\source\repos\ParkirConsole\ParkirConsole\obj\Debug\net5.0\ref\ParkirConsole.dll
